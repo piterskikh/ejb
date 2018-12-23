@@ -1,0 +1,20 @@
+# Build Files #
+bin
+target
+build
+lucene
+
+# Eclipse Project Files #
+.classpath
+.project
+.settings
+
+# IntelliJ IDEA Files #
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# lucene index #
+app-newton/lucene/indexes/
+/tomcat9x/
